@@ -1,5 +1,5 @@
 Dainon Harris
-Programming Assignment 1 created using PyCharm
+Project Name : Programming Assignment 1 -  Book Price Calculator program using Python
 Open PyCharm Community Edition 2024.2.3 version
 Click File, then select open 
 You find the directory C:\PythonProject\Assignment 1
